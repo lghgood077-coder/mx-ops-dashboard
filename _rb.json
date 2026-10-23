@@ -1,0 +1,32 @@
+{
+  "url": "https://api.github.com/repos/lghgood077-coder/mx-ops-dashboard/pages/builds/1265581272",
+  "status": "built",
+  "error": {
+    "message": null
+  },
+  "pusher": {
+    "login": "lghgood077-coder",
+    "id": 289587967,
+    "node_id": "U_kgDOEULC_w",
+    "avatar_url": "https://avatars.githubusercontent.com/u/289587967?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/lghgood077-coder",
+    "html_url": "https://github.com/lghgood077-coder",
+    "followers_url": "https://api.github.com/users/lghgood077-coder/followers",
+    "following_url": "https://api.github.com/users/lghgood077-coder/following{/other_user}",
+    "gists_url": "https://api.github.com/users/lghgood077-coder/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/lghgood077-coder/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/lghgood077-coder/subscriptions",
+    "organizations_url": "https://api.github.com/users/lghgood077-coder/orgs",
+    "repos_url": "https://api.github.com/users/lghgood077-coder/repos",
+    "events_url": "https://api.github.com/users/lghgood077-coder/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/lghgood077-coder/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "commit": "9fa39491b9c75f41472eaa3f85f5386a24356062",
+  "duration": 20344,
+  "created_at": "2026-10-07T01:09:51Z",
+  "updated_at": "2026-10-07T01:10:11Z"
+}
